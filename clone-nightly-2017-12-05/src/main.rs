@@ -17,7 +17,6 @@ pub struct SS<T> {
     pub bar: Wrapper<T>,
 }
 
-// #[derive(Clone)]
 // struct Wrapper<T> {
 //     pub inner: T,
 // }
